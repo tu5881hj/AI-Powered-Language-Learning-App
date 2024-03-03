@@ -1,0 +1,26 @@
+{
+"name": "ai-999-vnbke",
+"version": "1.0.0",
+"description": "The AI-Powered Language Learning App uses machine learning algorithms to personalize language lessons, track user progress, and provide interactive exercises and quizzes for effective language acquisition.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/tu5881hj/AI-Powered-Language-Learning-App.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "tu5881hj",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
